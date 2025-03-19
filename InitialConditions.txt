@@ -1,0 +1,91 @@
+1.
+X0 = 0;
+Y0 = 0;
+Z0 = 0.1;
+psi0 = 0;
+theta0 = 60/180*pi;
+phi0 = 0;
+X_dot_0 = 0;
+Y_dot_0 = 0.1;
+Z_dot_0 = 0.5;
+psi_dot_0 = 0*2*pi;
+theta_dot_0 = 50*2*pi;
+phi_dot_0 = -5*2*pi;
+
+2.
+X0 = 0;
+Y0 = 0;
+Z0 = 0.1;
+psi0 = 0;
+theta0 = 60/180*pi;
+phi0 = 0;
+X_dot_0 = 0;
+Y_dot_0 = 0.3;
+Z_dot_0 = 0;
+psi_dot_0 = 0*2*pi;
+theta_dot_0 = 0*2*pi;
+phi_dot_0 = -10*2*pi;
+
+3.
+N_animation = 200;
+
+X0 = 0;
+Y0 = 0;
+Z0 = 0.1;
+psi0 = 0;
+theta0 = pi/4;
+phi0 = 0;
+X_dot_0 = 0;
+Y_dot_0 = 0.2;
+Z_dot_0 = 0.3;
+psi_dot_0 = 0*2*pi;
+theta_dot_0 = 1*2*pi;
+phi_dot_0 = -35*2*pi;
+
+4.
+X0 = 0;
+Y0 = 0;
+Z0 = 0.1;
+psi0 = 0;
+theta0 = 60/180*pi;
+phi0 = 0;
+X_dot_0 = 0;
+Y_dot_0 = 0.3;
+Z_dot_0 = 0.5;
+psi_dot_0 = 0*2*pi;
+theta_dot_0 = 0*2*pi;
+phi_dot_0 = -15*2*pi;
+
+5.
+X0 = 0;
+Y0 = 0;
+Z0 = 0.1;
+psi0 = 0;
+theta0 = 60/180*pi;
+phi0 = 0;
+X_dot_0 = 0;
+Y_dot_0 = 0.1;
+Z_dot_0 = 0.5;
+psi_dot_0 = 0*2*pi;
+theta_dot_0 = 5*2*pi;
+phi_dot_0 = -55*2*pi;
+
+6.
+N_animation = 200;
+
+X0 = 0;
+Y0 = 0;
+Z0 = 0.1;
+psi0 = 0;
+theta0 = pi/4;
+phi0 = 0;
+X_dot_0 = 0;
+Y_dot_0 = 0.2;
+Z_dot_0 = 0.3;
+psi_dot_0 = 0*2*pi;
+theta_dot_0 = 0.5*2*pi;
+phi_dot_0 = -110*2*pi;
+
+
+
+
